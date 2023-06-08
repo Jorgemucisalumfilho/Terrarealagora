@@ -1,3 +1,12 @@
+restore <<<<<<< HEAD
+ (autocreate Criptomoeda) Terrarealagora >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin <https://github.com/Jorgemucisalumfilho/Terrarealagora.git>
+=======
+
 # `MD041` - First line in a file should be a top-level heading 
 
   
@@ -100,4 +109,5 @@ git add README.md
 git commit -m "first commit" 
 git branch -M main 
 git remote add origin https://github.com/Jorgemucisalumfilho/Terrarealagora.git
+>>>>>>> 7e733a615eb341d67e8f95ae94f96da273e49dbe
  git push - sua origem principal
